@@ -1,0 +1,38 @@
+{
+    "Name":"Chakkaravarthi",
+    "LastName":"Kolanjinathan",
+    "PhoneNumber":"+91 8489524045",
+    "Email":"sugarkolamji99@gmail.com",
+    "Education":{
+        "PrimarySchool":{
+            "Name":"Aruna High school",
+            "Place":"Kalamarudur",
+            "Marks":"89"
+        },
+        "High School":{
+            "Name":"Aruna Higher Sec school",
+            "Place":"Kalamarudur",
+            "Marks":"90"
+        },
+        "College":{
+            "Name":"Anna University",
+            "Place":"Chennai",
+            "Department":"Printing Technology",
+            "Marks":"7.4"
+        }
+    },
+    "Working Experiance":{
+        "1st Company":{
+            "ComapanyName":"Cadgraf Digital PVT LTD",
+            "Place":"numgambakkam",
+            "yearOfExperiamce":"2"
+        },
+        "2nd Company":{
+            "ComapanyName":"Print vibes Automation PVT LTD",
+            "Place":"Sirucherry",
+            "yearOfExperiamce":"1.4"
+        }
+
+        
+    }
+}
